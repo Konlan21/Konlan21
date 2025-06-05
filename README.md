@@ -1,4 +1,4 @@
-## 💫 Hello Im Konlan:
+## 💫 Hello Im Konlan
 🔭 I’m currently working on building applications with Spring Framework.<br>👯 I love teaming up on projects that make a difference — especially in backend or AI development.<br>🌱 I’m currently learning Microservices, Spring security<br>💬 Ask me about Django, FastApi, Django, FastAPI, building APIs, or how to structure backend projects effectively.<br>⚡I’m a proud Madridista — Hala Madrid! ⚽️
 
 
